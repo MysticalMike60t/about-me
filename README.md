@@ -9,6 +9,13 @@ I am an aspiring developer, looking to expand my knowledge.
 ![Wireshark](https://img.shields.io/badge/Wireshark-338DFF?style=flat&logo=wireshark&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-4B5DF5?style=flat&logo=visualstudiocode&logoColor=white)
 ![Github Desktop](https://img.shields.io/badge/Github%20Desktop-967bb6?style=flat&logo=github&logoColor=white)
+![WinRAR](https://img.shields.io/badge/WinRAR-920159?style=flat)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-107a40?style=flat&logo=microsoftexcel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-185abd?style=flat&logo=microsoftword&logoColor=white)
+![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft%20Powerpoint-c43f1d?style=flat&logo=microsoftpowerpoint&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-1480d8?style=flat&logo=microsoftoutlook&logoColor=white)
+![Microsoft OneNote](https://img.shields.io/badge/Microsoft%20OneNote-68149d?style=flat&logo=microsoftonenote&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-b32436?style=flat&logo=microsoftaccess&logoColor=white)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=MysticalMike60t&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MysticalMike60t&theme=ayu-mirage&hide_border=false)<br/>
